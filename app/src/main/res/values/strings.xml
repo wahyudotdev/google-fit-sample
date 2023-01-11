@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleFit</string>
+    <string name="steps_count">Steps : %s</string>
+    <string name="calories_count">Calories : %s</string>
+</resources>
